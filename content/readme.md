@@ -43,4 +43,7 @@
 - `git commit -a -m "move all .jpeg and .jpg to the images directory"`
 - `mkdir content`
 - `mv *.md content`
-
+- `git commit -a -m "move all .md files to the content directory"
+- `man rename`
+- `rename 'y/A-Z/a-z/' *.md`
+- `git commit -a -m "translate all .md files to lowercase"

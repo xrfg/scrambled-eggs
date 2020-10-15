@@ -72,8 +72,7 @@
 │   ├── _post-__26.07.2019_.md
 │   ├── post-__27.07.2019.md
 │   ├── post-__29.07.2019.md
-│   ├── post about the latest tech news -__24.07.2019.md
-│   └── readme.md
+│   └── post about the latest tech news -__24.07.2019.md
 ├── fonts
 │   ├── adventpro-bold-webfont.woff
 │   ├── adventpro-bold-webfont.woff2
@@ -110,6 +109,7 @@
 │   ├── vincent-guth-uhoILl3HUZM-unsplash.jpeg
 │   └── wil-stewart-pHANr-CpbYM-unsplash.jpg
 ├── index.html
+├── readme.md
 ├── scripts
 │   └── index.js
 └── styles

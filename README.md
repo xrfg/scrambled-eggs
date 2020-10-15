@@ -1,1 +1,32 @@
 # scrambled-eggs
+
+- `cd scrambled-eggs/`
+- `ls`
+- `markdown-preview INSTRUCTIONS.md` 
+- `clear`
+- `echo "# scrambled-eggs" >> README.md`
+- `git init`
+- `git add README.md` 
+- `git commit -m "first commit"`
+- `git branch -M main`
+- `git remote add origin git@github.com:xrfg/scrambled-eggs.git`
+- `git push -u origin main`
+- `git status`
+- `git branch`
+- `git add .`
+- `git commit -m "add all material"`
+- `git status`
+- `git push`
+- `git log`
+- `ls`
+- `nano README.md`
+- `mkdir icons && cd icons`
+- `mkdir images`
+- `cd ..`
+- `mv *.svg icons/images`
+- `cd icons`
+- `cd images`
+- `ls`
+- `cd ..`
+- `cd ..`
+- `nano README.md`

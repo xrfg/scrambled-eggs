@@ -54,5 +54,10 @@
 - `rename 'y/A-Z/a-z/' *.css`
 - `rename 'y/A-Z/a-z/' *.JS`
 - `mv webfontkit-20190825-182014/ fonts`
+- `mv InDeX.CSS styles`
+- `rename 'y/A-Z/a-z/' *.CSS`
+- `mv index.html.html index.html`
+- `cd ..`
+- `mv scrambled-eggs src`
 
 

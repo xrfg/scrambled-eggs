@@ -47,3 +47,8 @@
 - `man rename`
 - `rename 'y/A-Z/a-z/' *.md`
 - `git commit -a -m "translate all .md files to lowercase"
+- `mkdir scripts`
+- `mv INDEX.js scripts`
+- `mv *.css ~/Documents/DCI/Modules/1/scrambled-eggs/styles`
+- `rm -rf specimen_files`
+

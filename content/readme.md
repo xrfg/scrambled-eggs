@@ -53,4 +53,6 @@
 - `rm -rf specimen_files`
 - `rename 'y/A-Z/a-z/' *.css`
 - `rename 'y/A-Z/a-z/' *.JS`
+- `mv webfontkit-20190825-182014/ fonts`
+
 

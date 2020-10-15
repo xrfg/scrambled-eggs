@@ -51,4 +51,6 @@
 - `mv INDEX.js scripts`
 - `mv *.css ~/Documents/DCI/Modules/1/scrambled-eggs/styles`
 - `rm -rf specimen_files`
+- `rename 'y/A-Z/a-z/' *.css`
+- `rename 'y/A-Z/a-z/' *.JS`
 

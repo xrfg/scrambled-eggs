@@ -30,3 +30,12 @@
 - `cd ..`
 - `cd ..`
 - `nano README.md`
+- `mv icons iconss`
+- `cd ..`
+- `mv icons images`
+- `cd images`
+- `mv iconss icons`
+- `cd ..`
+- `cd ..`
+- `git commit -a -m "rename correctly"`
+
